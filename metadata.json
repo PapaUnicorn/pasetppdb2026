@@ -1,0 +1,5 @@
+{
+  "name": "PPDB Advent II Setiabudi",
+  "description": "Sistem Informasi Penerimaan Peserta Didik Baru untuk TK-SD-SMP Advent II Setiabudi Bandung dengan integrasi Google Sheets.",
+  "requestFramePermissions": []
+}
